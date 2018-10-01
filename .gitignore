@@ -1,0 +1,4 @@
+# ignore all zip files
+*.zip
+# ignore all sql files
+*.sql
