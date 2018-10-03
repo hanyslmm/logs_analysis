@@ -13,7 +13,7 @@ You will need to unzip this file after downloading it. The file inside is called
 To load the data, cd into the vagrant directory and use the command:
 psql -d news -f newsdata.sql.
 
-use python3 to RUN the programs.
+Use python3 to RUN the programs.
 first RUN the view.py program to create 4 database views program will not work without the view.
 then RUN the main.py program.
 
