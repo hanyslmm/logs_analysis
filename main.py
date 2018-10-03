@@ -55,6 +55,15 @@ for i in range(0,3):
     #f = open('hany.txt', 'w')
     f.write("{}- {} ___ {} views".format(i+1, author, autviews))
 
+#execute server daily errors
+cu.execute(errors_day)
+derrors = cu.fetchall()
+print("days more than 1% of requests lead to errors query:")
+for derror in derrors:
+    day = derror[0]
+    percent = round((derror[1]*100), 3)
+    print ('{}  -  {}% error'.format(day, percent))
+
 
 f.close()
 db.close()
