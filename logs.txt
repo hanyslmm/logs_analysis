@@ -1,0 +1,27 @@
+program execution time stamp:
+
+Wed Oct  3 09:21:18 2018
+_______________________________
+
+Most Popular three articles:
+
+1- Candidate is jerk, alleges rival ___ 338647 views
+2- Bears love berries, alleges bear ___ 253801 views
+3- Bad things gone, say good people ___ 170098 views
+
+_______________________________
+
+Most Popular three authors:
+
+1- Ursula La Multa ___ 507594 views
+2- Rudolf von Treppenwitz ___ 423457 views
+3- Anonymous Contributor ___ 170098 views
+
+_______________________________
+
+Days more than 1% of requests get errors:
+
+1- 2016-07-17 ___ 2.249% error
+
+_______________________________
+
