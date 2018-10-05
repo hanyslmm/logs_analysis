@@ -2,11 +2,11 @@
 
 import psycopg2
 
-#connect to news database
+# connect to news database
 db = psycopg2.connect("dbname=news")
 cu = db.cursor()
 
-#create views to enhance query usage
+# create views to enhance query usage
 
 top_views = '''
     create or replace view click_view as
